@@ -1,1 +1,1 @@
-web: python3 Youtube-DL.py ${PORT}
+worker: python3 Youtube-DL.py ${PORT}
